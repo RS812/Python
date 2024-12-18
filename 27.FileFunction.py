@@ -1,0 +1,10 @@
+f=open("bcam-5.txt","w")
+data=input("Enter your data or string")
+f.write(data)
+f.close()
+print("File Written Successfully")
+
+f=open("bcam-5.txt","r")
+print(f.read())
+f.close()
+print("File Read Successfully")

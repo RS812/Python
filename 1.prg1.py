@@ -1,0 +1,5 @@
+print("GoodMorning")
+print("*************************")
+print("Welcome")
+print("*"*25)
+print("BCA SEMESTER-5")
